@@ -258,7 +258,7 @@ a {
   column-gap: 20px;
 }
 .card {
-  width: 200px;
+  width: 275px;
   height: 350px;
   border-radius: 4px;
   border-style: none;
@@ -266,7 +266,7 @@ a {
   cursor: pointer;
 }
 .card img {
-  width: 200px;
+  width: 275px;
   height: 350px;
   border-radius: 4px;
   border-style: none;
@@ -292,7 +292,7 @@ a {
   bottom: 20px;
   left: 10px;
   font-weight: 500;
-  width: 150px;
+  width: 240px;
 }
 /* footer section */
 .footer {
